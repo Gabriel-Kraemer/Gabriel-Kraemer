@@ -4,7 +4,7 @@
 -     Tengo algo de conocimiento de Excel, pero siempre tuve dificultades con las macros si no salían en modo automático.
 - 🌱 Actualmente estoy aprendiendo Python, dando mis primeros pasos. Le he dado una mirada al HTML y CSS como para entender la estructura.
 - 💞️ Como recién me inicio en todo ésto, tengo muy poca experiencia, por lo que es poco lo que puedo aportar, pero estoy abierto a colaborar en cualquier proyecto
-- 📫 No uso gran variedad de redes sociales, por lo que el mejor punto de ontacto es mi correo gabrielkraemer0@gmail.com
+- 📫 No uso gran variedad de redes sociales, por lo que el mejor punto de contacto es mi correo gabrielkraemer0@gmail.com
 
 <!---
 Gabriel-Kraemer/Gabriel-Kraemer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
